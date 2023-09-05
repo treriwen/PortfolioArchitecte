@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dwf-projet6-backend": "file:Backend",
+    "node-libcurl": "^3.0.0"
+  }
+}
